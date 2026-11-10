@@ -1,4 +1,6 @@
 # Error Analysis of Students' Written English (Bangladesh)
+​Educational materials and student corpora at the secondary level (Class 10) often reveal recurring patterns of interference, structural divergence, and pedagogical gaps. This project provides a structured approach to examining these linguistic deviations through systematic error analysis (EA).
+​By combining corpus linguistic methods with error categorization, this repository serves as a toolkit for researchers, educators, and NLP developers interested in second language acquisition (SLA) and automated grammatical error correction (GEC) for South Asian English contexts.
 
 ## Setup
 pip install pandas matplotlib pyspellchecker python-docx
