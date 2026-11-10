@@ -8,7 +8,7 @@ pip install pandas matplotlib pyspellchecker python-docx
 ## Run
 python error_analysis.py Sample_data.docx
 
-Input: a .docx with essays labelled "Sample 1", "Sample 2", ... (duplicates are removed automatically).
+Input: a .docx with essays labelled "Sample 1", "Sample 2", ...(duplicates are removed automatically).
 
 ## Outputs (./output)
 - flagged_errors.csv : every flagged item with sample number, error type, matched text, full sentence
