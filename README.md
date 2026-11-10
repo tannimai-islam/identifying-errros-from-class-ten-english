@@ -23,7 +23,7 @@ Input: a .docx with essays labelled "Sample 1", "Sample 2", ... (duplicates are 
 3. Count and rank error types (share of errors and errors per 100 words).
 4. Manually verify flagged_errors.csv (precision check) before reporting final ratios.
 
-## Limitations (state these in your application)
+## Limitations
 - Rule-based detection finds surface errors; it misses missing articles/words, wrong word choice,
   and meaning-level errors.
 - Some flags may be false positives; manual verification is needed.
